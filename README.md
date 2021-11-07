@@ -25,7 +25,14 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 ## Medium
 
 <code><a href="https://medium.com/@franciscofoz" target="_blank"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="100" height="50" target="_blank"></a> </code> 
+</br>
+</br>
+</br>
+</br>
 
-
-
+<div>
+<a href="https://gist.github.com/FranciscoFoz">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=FranciscoFoz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
