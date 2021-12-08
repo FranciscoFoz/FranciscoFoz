@@ -30,6 +30,33 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
+
+## Projetos
+
+### **Data Science:** 
+
+
+#### Bootcamp Data Science Alura 2021
+* [Módulo 1](https://github.com/FranciscoFoz/Projeto_Modulo1_Bootcamp_Data_Science_Alura_2021)
+* [Módulo 2](https://github.com/FranciscoFoz/Projeto_Modulo2_Bootcamp_Data_Science_Alura_2021)
+
+
+
+#### Livro: Data Science do Zero
+* [Link](https://github.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados)
+
+
+### **Business Intelligence:** 
+
+   #### Power BI
+   * BI em Bibliotecas ([Artigo](https://franciscofoz.medium.com/business-intelligence-em-bibliotecas-com-power-bi-4065df7b232c) , [Projeto](https://github.com/FranciscoFoz/BI_Biblioteca))
+   * Alura Challenge BI ([Semana 1](https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana1), [Semana 2](https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana2), [Semana 3](https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana3))
+
+
+</br>
+</br>
+</br>
+
 <div>
 <a href="https://gist.github.com/FranciscoFoz">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&layout=compact&langs_count=7&theme=dracula"/>
