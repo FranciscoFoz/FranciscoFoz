@@ -39,6 +39,7 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 #### Bootcamp Data Science Alura 2021
 * [Módulo 1](https://github.com/FranciscoFoz/Projeto_Modulo1_Bootcamp_Data_Science_Alura_2021)
 * [Módulo 2](https://github.com/FranciscoFoz/Projeto_Modulo2_Bootcamp_Data_Science_Alura_2021)
+* [Módulo 3(https://github.com/FranciscoFoz/Projeto_Modulo3_Bootcamp_Data_Science_Alura_2021)
 
 
 
