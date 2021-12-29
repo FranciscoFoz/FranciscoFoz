@@ -12,7 +12,6 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 - :bar_chart: Atualmente estou realizando o Bootcamp Data Science da Alura 
 
 ### Ferramentas e Tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
 </br>
