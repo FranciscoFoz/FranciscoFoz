@@ -32,8 +32,9 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 
 ## Projetos
 
-### **Data Science:** 
+### **Ciência de dados** 
 
+#### [Análise exploratória de dados das bibliotecas de São Francisco](https://github.com/FranciscoFoz/Analise_exploratoria_biblioteca_Sao_Francisco)
 
 #### Bootcamp Data Science Alura 2021
 * [Módulo 1](https://github.com/FranciscoFoz/Projeto_Modulo1_Bootcamp_Data_Science_Alura_2021)
@@ -41,13 +42,9 @@ Eu Tenho 26 anos e moro em Campinas-SP.
 * [Módulo 3](https://github.com/FranciscoFoz/Projeto_Modulo3_Bootcamp_Data_Science_Alura_2021)
 
 
-
-#### Livro: Data Science do Zero
-* [Link](https://github.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados)
-
+#### [Resenha - Livro: Data Science do Zero](https://github.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados)
 
 #### Visualização de dados
-
 * [Visualização de dados das teses e dissertações de bibliotecononomia no Brasil](https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil)
 
 ### **Business Intelligence:** 
