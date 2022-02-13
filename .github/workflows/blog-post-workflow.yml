@@ -1,6 +1,5 @@
 # This is a basic workflow to help you get started with Actions
 
-name: CI
 name: Latest blog post workflow
 on:
   schedule: # Run workflow automatically
