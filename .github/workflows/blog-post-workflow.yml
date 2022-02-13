@@ -18,6 +18,6 @@ jobs:
         with:
           comment_tag_name: MEDIUM
           max_post_count: "5"
-          template: $randomEmoji
+          template: randomEmoji
           feed_list: "https://medium.com/feed/@franciscofoz"
 
