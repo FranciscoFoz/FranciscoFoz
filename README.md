@@ -30,8 +30,8 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
 
 
 ## Projetos
