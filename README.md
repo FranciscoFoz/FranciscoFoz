@@ -29,7 +29,9 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 </br>
-</br>
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 
 ## Projetos
