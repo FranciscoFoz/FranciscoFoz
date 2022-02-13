@@ -28,8 +28,8 @@ Eu tenho 26 anos e moro em Campinas-SP.
 <code><a href="https://medium.com/@franciscofoz" target="_blank"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="100" height="50" target="_blank"></a> </code> 
 </br>
 </br>
-</br>
 
+:pencil: Últimos artigos no medium:
 <!-- MEDIUM:START -->
 - [Por onde começar em ciência de dados?](https://franciscofoz.medium.com/por-onde-come%C3%A7ar-em-ci%C3%AAncia-de-dados-fe1b55f6ccba?source=rss-30612e32581e------2)
 - [Minha jornada ao traduzir um conjunto de dados](https://franciscofoz.medium.com/minha-jornada-ao-traduzir-um-conjunto-de-dados-9053f15616bf?source=rss-30612e32581e------2)
