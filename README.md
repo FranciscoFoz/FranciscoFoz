@@ -29,7 +29,7 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
-:pencil: Últimos artigos no medium:
+:pencil: Últimos artigos:
 <!-- MEDIUM:START -->
 - [Por onde começar em ciência de dados?](https://franciscofoz.medium.com/por-onde-come%C3%A7ar-em-ci%C3%AAncia-de-dados-fe1b55f6ccba?source=rss-30612e32581e------2)
 - [Minha jornada ao traduzir um conjunto de dados](https://franciscofoz.medium.com/minha-jornada-ao-traduzir-um-conjunto-de-dados-9053f15616bf?source=rss-30612e32581e------2)
