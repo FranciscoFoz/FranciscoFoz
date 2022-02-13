@@ -30,8 +30,7 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
+<!-- MEDIUM:START -->$randomEmoji$randomEmoji$randomEmoji$randomEmoji$randomEmoji<!-- MEDIUM:END -->
 
 
 ## Projetos
