@@ -35,7 +35,6 @@ Eu tenho 26 anos e moro em Campinas-SP.
 - [Minha jornada ao traduzir um conjunto de dados](https://franciscofoz.medium.com/minha-jornada-ao-traduzir-um-conjunto-de-dados-9053f15616bf?source=rss-30612e32581e------2)
 - [Explorando os dados das bibliotecas de São Francisco](https://franciscofoz.medium.com/explorando-os-dados-das-bibliotecas-de-s%C3%A3o-francisco-36a904cb9c2a?source=rss-30612e32581e------2)
 - [Como documentar o seu notebook em projetos de ciência de dados?](https://franciscofoz.medium.com/como-documentar-o-seu-notebook-em-projetos-de-ci%C3%AAncia-de-dados-9b238cc7c565?source=rss-30612e32581e------2)
-- [Dica rápida: Aprenda Modelagem de dados e SQL](https://franciscofoz.medium.com/dica-r%C3%A1pida-aprenda-modelagem-de-dados-e-sql-6d9f6f714e6d?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
