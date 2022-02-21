@@ -31,10 +31,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos artigos:
 <!-- MEDIUM:START -->
+- [Como ler tabelas de artigos e documentos com Python?](https://franciscofoz.medium.com/como-ler-tabelas-de-artigos-e-documentos-com-python-3d2568384157?source=rss-30612e32581e------2)
 - [Bibliotecário em Ciência de Dados: Introdução a probabilidade com Python](https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-introdu%C3%A7%C3%A3o-a-probabilidade-com-python-6b2adb863d0f?source=rss-30612e32581e------2)
 - [Por onde começar em ciência de dados?](https://franciscofoz.medium.com/por-onde-come%C3%A7ar-em-ci%C3%AAncia-de-dados-fe1b55f6ccba?source=rss-30612e32581e------2)
 - [Minha jornada ao traduzir um conjunto de dados](https://franciscofoz.medium.com/minha-jornada-ao-traduzir-um-conjunto-de-dados-9053f15616bf?source=rss-30612e32581e------2)
-- [Explorando os dados das bibliotecas de São Francisco](https://franciscofoz.medium.com/explorando-os-dados-das-bibliotecas-de-s%C3%A3o-francisco-36a904cb9c2a?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
