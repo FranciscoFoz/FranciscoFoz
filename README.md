@@ -59,7 +59,8 @@ Eu tenho 26 anos e moro em Campinas-SP.
         <a href="https://github.com/FranciscoFoz/Projeto_Modulo1_Bootcamp_Data_Science_Alura_2021"> Módulo 1 - Internações no Brasil: Uma análise exploratória entre 2010-2020 </a> <br>
         <a href="https://github.com/FranciscoFoz/Projeto_Modulo2_Bootcamp_Data_Science_Alura_2021"> Módulo 2 - Imunizações para Febre Amarela no Brasil: Uma análise dos casos entre 2019/2020-2021 </a> <br>
         <a href="https://github.com/FranciscoFoz/Projeto_Modulo3_Bootcamp_Data_Science_Alura_2021"> Módulo 3 - Previsão dos casos de COVID-19 no Brasil:
-Uma análise preditiva no município com maior índice de casos por habitante</a> 
+Uma análise preditiva no município com maior índice de casos por habitante</a> <br>
+        <a href="https://github.com/FranciscoFoz/Projeto_Final_Bootcamp_Data_Science_Alura"> Módulo Final - Previsão da admissão na UTI: Um modelo de Machine Learning a partir de dados dos pacientes do Hospital Sírio Libanês
         </td>
    <tr>
         <td>
