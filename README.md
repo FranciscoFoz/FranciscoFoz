@@ -31,10 +31,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos artigos:
 <!-- MEDIUM:START -->
+- [Como extrair e transformar dados JSON com Pandas?](https://franciscofoz.medium.com/como-extrair-e-transformar-dados-json-com-pandas-34f6199393c1?source=rss-30612e32581e------2)
 - [Arquitetura e governança de dados com Data Mesh: A visão de um bibliotecário no mundo dos dados](https://franciscofoz.medium.com/arquitetura-e-governan%C3%A7a-de-dados-com-data-mesh-a-vis%C3%A3o-de-um-bibliotec%C3%A1rio-no-mundo-dos-dados-71acdc4b216c?source=rss-30612e32581e------2)
 - [Como tratar outliers sem excluí-los?](https://franciscofoz.medium.com/como-tratar-outliers-sem-exclu%C3%AD-los-19dd5c1ba3e6?source=rss-30612e32581e------2)
 - [Como jogar dados fora com Pandas?](https://franciscofoz.medium.com/como-jogar-dados-fora-com-pandas-23a5be871aac?source=rss-30612e32581e------2)
-- [Como ler tabelas de artigos e documentos com Python?](https://franciscofoz.medium.com/como-ler-tabelas-de-artigos-e-documentos-com-python-3d2568384157?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
