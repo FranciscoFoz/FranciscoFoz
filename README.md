@@ -31,10 +31,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos artigos:
 <!-- MEDIUM:START -->
+- [O que é “Data infrastructure literacy” e qual a sua importância ?](https://franciscofoz.medium.com/o-que-%C3%A9-data-infrastructure-literacy-e-qual-a-sua-import%C3%A2ncia-8788c25e62d8?source=rss-30612e32581e------2)
 - [Como customizar tabelas no Pandas?](https://franciscofoz.medium.com/como-customizar-tabelas-no-pandas-9e6c4593b8d2?source=rss-30612e32581e------2)
 - [Como manipular data e hora em análise de dados com Pandas?](https://franciscofoz.medium.com/como-manipular-data-e-hora-em-an%C3%A1lise-de-dados-com-pandas-63b7024eb801?source=rss-30612e32581e------2)
 - [Como extrair e transformar dados JSON com Pandas?](https://franciscofoz.medium.com/como-extrair-e-transformar-dados-json-com-pandas-34f6199393c1?source=rss-30612e32581e------2)
-- [Arquitetura e governança de dados com Data Mesh: A visão de um bibliotecário no mundo dos dados](https://franciscofoz.medium.com/arquitetura-e-governan%C3%A7a-de-dados-com-data-mesh-a-vis%C3%A3o-de-um-bibliotec%C3%A1rio-no-mundo-dos-dados-71acdc4b216c?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
