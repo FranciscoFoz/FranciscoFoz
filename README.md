@@ -9,7 +9,7 @@ Eu tenho 26 anos e moro em Campinas-SP.
 - :truck: Eu trabalho na DHL Supply Chain e sou Analista Admnistrativo Jr.
 - :bar_chart: Estou estudando ciência de dados e suas aplicações na biblioteconomia 
 - :star: Faço parte da Alura Stars e tenho escrito no meu Medium artigos sobre ciência de dados, biblioteconomia e tecnologia 
-- :bar_chart: Atualmente estou realizando o Bootcamp Data Science da Alura 
+
 
 ### Ferramentas e Tecnologias
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"></code>
