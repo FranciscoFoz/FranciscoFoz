@@ -31,10 +31,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos artigos:
 <!-- MEDIUM:START -->
+- [Como criar um Boxplot com Python no Plotly?](https://franciscofoz.medium.com/como-criar-um-boxplot-com-python-no-plotly-252a77fdecf4?source=rss-30612e32581e------2)
 - [Bibliotecário em Ciência de Dados: Introdução aos testes de hipóteses com Python](https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-introdu%C3%A7%C3%A3o-aos-testes-de-hip%C3%B3teses-com-python-e21404bb1097?source=rss-30612e32581e------2)
 - [10 Bibliotecas para visualizar dados com Python](https://franciscofoz.medium.com/10-bibliotecas-para-visualizar-dados-com-python-ec7efb47f616?source=rss-30612e32581e------2)
 - [O que é “Data infrastructure literacy” e qual a sua importância ?](https://franciscofoz.medium.com/o-que-%C3%A9-data-infrastructure-literacy-e-qual-a-sua-import%C3%A2ncia-8788c25e62d8?source=rss-30612e32581e------2)
-- [Como customizar tabelas no Pandas?](https://franciscofoz.medium.com/como-customizar-tabelas-no-pandas-9e6c4593b8d2?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
