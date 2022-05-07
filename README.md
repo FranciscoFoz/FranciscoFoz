@@ -78,14 +78,6 @@ Uma análise preditiva no município com maior índice de casos por habitante</a
         <a href="https://github.com/FranciscoFoz/BI_Biblioteca"> BI em Bibliotecas </a> <br>
         </td>
    </tr>
-   <tr>
-        <td>
-        Alura Challenge BI 2021 - Power BI <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana1"> Semana 1 - Dashboard de Logística </a> <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana2"> Semana 2 - Dashboard estratégico de marketing  </a> <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana3"> Semana 3 - Dashboard tático financeiro </a> 
-        </td>
-   </tr>
 </table>
 
 </br>
