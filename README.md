@@ -18,14 +18,9 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href= https://franciscofoz.medium.com/ />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= https://www.linkedin.com/in/francisco-tadeu-foz/>
 
-## Rede social
-
-<code><a href="https://www.linkedin.com/in/francisco-tadeu-foz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  </code>
-
-## Medium
-
-<code><a href="https://medium.com/@franciscofoz" target="_blank"><img src="https://miro.medium.com/max/2000/1*jfdwtvU6V6g99q3G7gq7dQ.png" width="100" height="50" target="_blank"></a> </code> 
 </br>
 </br>
 
