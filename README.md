@@ -1,7 +1,7 @@
 
 
 # Olá eu me chamo Francisco Foz ! 👋
-## Bem vindo ao meu perfil do GitHub!
+## Bem vindo ao meu perfil do GitHub!           
 
 Eu tenho 26 anos e moro em Campinas-SP.
 
@@ -24,7 +24,7 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
-:pencil: Últimos artigos:
+:pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
 - [3 Estratégias para ler e extrair significado de conjuntos de dados](https://franciscofoz.medium.com/3-estrat%C3%A9gias-para-ler-e-extrair-significado-de-conjuntos-de-dados-20b502ee084b?source=rss-30612e32581e------2)
 - [Como criar um Boxplot com Python no Plotly?](https://franciscofoz.medium.com/como-criar-um-boxplot-com-python-no-plotly-252a77fdecf4?source=rss-30612e32581e------2)
