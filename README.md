@@ -4,8 +4,11 @@
 ## Bem vindo ao meu perfil do GitHub!           
 
 <p align='left'>
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href= https://franciscofoz.medium.com/>
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= https://www.linkedin.com/in/francisco-tadeu-foz/>
+    
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](https://www.linkedin.com/in/francisco-tadeu-foz/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white
+)](https://medium.com/@franciscofoz)
 </p>
 
 Eu tenho 26 anos e moro em Campinas-SP.
