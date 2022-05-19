@@ -3,12 +3,18 @@
 # Olá eu me chamo Francisco Foz ! 👋
 ## Bem vindo ao meu perfil do GitHub!           
 
+<p align='left'>
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href= https://franciscofoz.medium.com/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= https://www.linkedin.com/in/francisco-tadeu-foz/>
+</p>
+
 Eu tenho 26 anos e moro em Campinas-SP.
+
 
 - :books: Sou bibliotecário formado pela PUCCAMP em 2018 
 - :truck: Eu trabalho na DHL Supply Chain e sou Analista Admnistrativo Jr.
 - :bar_chart: Estou estudando ciência de dados e suas aplicações na biblioteconomia 
-- :star: Faço parte da Alura Stars e tenho escrito no meu Medium artigos sobre ciência de dados, biblioteconomia e tecnologia 
+- :star: Faço parte da Alura Stars e tenho escrito no meu Medium textos sobre ciência de dados, biblioteconomia e tecnologia 
 
 
 ### Ferramentas e Tecnologias
@@ -18,11 +24,6 @@ Eu tenho 26 anos e moro em Campinas-SP.
 </br>
 </br>
 
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" href= https://franciscofoz.medium.com/ />
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href= https://www.linkedin.com/in/francisco-tadeu-foz/>
-
-</br>
-</br>
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
