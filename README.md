@@ -30,10 +30,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Compartilhamento de conhecimento, tecnologia e transformação](https://franciscofoz.medium.com/compartilhamento-de-conhecimento-tecnologia-e-transforma%C3%A7%C3%A3o-e531cea421b2?source=rss-30612e32581e------2)
 - [A experiência de um bibliotecário em um Bootcamp de Ciência de Dados](https://franciscofoz.medium.com/a-experi%C3%AAncia-de-um-bibliotec%C3%A1rio-em-um-bootcamp-de-ci%C3%AAncia-de-dados-d04939fef956?source=rss-30612e32581e------2)
 - [3 Estratégias para ler e extrair significado de conjuntos de dados](https://franciscofoz.medium.com/3-estrat%C3%A9gias-para-ler-e-extrair-significado-de-conjuntos-de-dados-20b502ee084b?source=rss-30612e32581e------2)
 - [Como criar um Boxplot com Python no Plotly?](https://franciscofoz.medium.com/como-criar-um-boxplot-com-python-no-plotly-252a77fdecf4?source=rss-30612e32581e------2)
-- [Bibliotecário em Ciência de Dados: Introdução aos testes de hipóteses com Python](https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-introdu%C3%A7%C3%A3o-aos-testes-de-hip%C3%B3teses-com-python-e21404bb1097?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
