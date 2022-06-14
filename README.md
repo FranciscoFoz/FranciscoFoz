@@ -46,8 +46,8 @@ Eu tenho 26 anos e moro em Campinas-SP.
         <th>Projeto</th>
     </tr>
     <tr>
-        <th rowspan="7">Ciência de dados</th>
-        <td rowspan="5">Ciência de dados</td>
+        <th rowspan="8">Ciência de dados</th>
+        <td rowspan="6">Ciência de dados</td>
     <tr>
         <td>
            <a href="https://github.com/FranciscoFoz/Analise_exploratoria_biblioteca_Sao_Francisco"> Análise exploratória de dados das bibliotecas de São Francisco</a>
@@ -66,7 +66,12 @@ Uma análise preditiva no município com maior índice de casos por habitante</a
         <td>
            <a href="https://github.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados"> Resenha - Livro: Data Science do Zero</a>
        </td>
-    </tr>
+   </tr>
+   <tr>      
+        <td>
+           <a href="https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca"> Validação do cadastro de usuários da biblioteca </a>
+        </td>
+   </tr>    
    <tr>
         <td>
            <a href="https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil"> Visualização de dados das teses e dissertações de bibliotecononomia no Brasil</a>
