@@ -30,10 +30,10 @@ Eu tenho 26 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Visualizando dados das teses e dissertações sobre biblioteca digital no R](https://franciscofoz.medium.com/visualizando-dados-das-teses-e-disserta%C3%A7%C3%B5es-sobre-biblioteca-digital-no-r-f58516f00284?source=rss-30612e32581e------2)
 - [Como reter profissionais gestores em dados no Brasil? State of Data Brazil 2021](https://franciscofoz.medium.com/como-reter-profissionais-gestores-em-dados-no-brasil-state-of-data-brazil-2021-46117d8e936c?source=rss-30612e32581e------2)
 - [5 livros sobre bibliotecas em um mundo digital &lpar;Open Access&rpar;](https://franciscofoz.medium.com/5-livros-sobre-bibliotecas-em-um-mundo-digital-open-access-a299498d8cac?source=rss-30612e32581e------2)
 - [Validando dados de usuários da biblioteca com Regex no Python](https://franciscofoz.medium.com/validando-dados-de-usu%C3%A1rios-da-biblioteca-com-regex-no-python-792c19c1715f?source=rss-30612e32581e------2)
-- [7 Artigos para você refletir sobre: Dados, Informação, Patrimônio e suas relações](https://franciscofoz.medium.com/7-artigos-para-voc%C3%AA-refletir-sobre-dados-informa%C3%A7%C3%A3o-patrim%C3%B4nio-e-suas-rela%C3%A7%C3%B5es-f9d6961818c3?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
