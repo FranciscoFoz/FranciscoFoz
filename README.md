@@ -45,7 +45,6 @@ Eu tenho 26 anos e moro em Campinas-SP.
         <th>Subárea</th>
         <th>Projeto</th>
     </tr>
-    <tr>
         <th rowspan="10">Ciência de dados</th>
         <td rowspan="8">Ciência de dados</td>
     <tr>
@@ -100,7 +99,16 @@ Uma análise preditiva no município com maior índice de casos por habitante</a
         <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana3"> Semana 3 - Dashboard tático financeiro </a> 
         </td>
    </tr>
-   </tr>
+   
+   <tr>
+        <th rowspan="2">Programação</th>
+        <td rowspan="2">Back-end</td>
+    <tr>
+        <td>
+           <a href="https://github.com/FranciscoFoz/imersao-java-alura-stickers"> Imersão Java - Alura Stickers </a>
+        </td>
+    <tr>
+    </tr>
 </table>
 
 </br>
