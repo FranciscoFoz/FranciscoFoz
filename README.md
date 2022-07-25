@@ -99,16 +99,6 @@ Uma análise preditiva no município com maior índice de casos por habitante</a
         <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana3"> Semana 3 - Dashboard tático financeiro </a> 
         </td>
    </tr>
-   
-   <tr>
-        <th rowspan="2">Programação</th>
-        <td rowspan="2">Back-end</td>
-    <tr>
-        <td>
-           <a href="https://github.com/FranciscoFoz/imersao-java-alura-stickers"> Imersão Java - Alura Stickers </a>
-        </td>
-    <tr>
-    </tr>
 </table>
 
 </br>
