@@ -30,10 +30,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Como uma pessoa bibliotecária pode seguir na área de análise de dados?](https://franciscofoz.medium.com/como-uma-pessoa-bibliotec%C3%A1ria-pode-seguir-na-%C3%A1rea-de-an%C3%A1lise-de-dados-bfdc7460c427?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: 12 competências](https://franciscofoz.medium.com/letramento-informacional-de-dados-12-compet%C3%AAncias-759aa5eec9db?source=rss-30612e32581e------2)
 - [Por que uma pessoa bibliotecária de dados deveria conhecer Git e GitHub?](https://franciscofoz.medium.com/por-que-uma-pessoa-bibliotec%C3%A1ria-de-dados-deveria-conhecer-git-e-github-5af9af0635f?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: Uma introdução aos profissionais bibliotecários](https://franciscofoz.medium.com/letramento-informacional-de-dados-uma-introdu%C3%A7%C3%A3o-aos-profissionais-bibliotec%C3%A1rios-cc1cbb794bf7?source=rss-30612e32581e------2)
-- [Visualizando dados das teses e dissertações sobre biblioteca digital no R](https://franciscofoz.medium.com/visualizando-dados-das-teses-e-disserta%C3%A7%C3%B5es-sobre-biblioteca-digital-no-r-f58516f00284?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
