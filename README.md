@@ -14,10 +14,10 @@
 Eu tenho 27 anos e moro em Campinas-SP.
 
 
-- :books: Sou bibliotecário formado pela PUCCAMP em 2018 
-- :truck: Eu trabalho na DHL Supply Chain e sou Analista Admnistrativo Jr.
-- :bar_chart: Estou estudando ciência de dados e suas aplicações na biblioteconomia 
-- :star: Faço parte da Alura Stars e tenho escrito no meu Medium textos sobre ciência de dados, biblioteconomia e tecnologia 
+- :books: Sou bibliotecário formado pela PUCCAMP em 2018.
+- :tv: Eu trabalho na EPTV e sou Analista de BI Jr.
+- :bar_chart: Estou estudando ciência de dados e suas aplicações na biblioteconomia.
+- :star: Faço parte da Alura Stars e tenho escrito no meu Medium textos sobre ciência de dados, biblioteconomia e tecnologia.
 
 
 ### Ferramentas e Tecnologias
