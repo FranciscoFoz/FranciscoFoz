@@ -21,7 +21,6 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 
 ### Ferramentas e Tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" width="40" height="40"></code>
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
 </br>
