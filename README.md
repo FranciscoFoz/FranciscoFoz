@@ -36,60 +36,11 @@ Eu tenho 27 anos e moro em Campinas-SP.
 <!-- MEDIUM:END -->
 
 
-## Projetos
+## Portfólio de projetos
 
-<table>
-    <tr>
-        <th>Área</th>
-        <th>Subárea</th>
-        <th>Projeto</th>
-    </tr>
-        <th rowspan="8">Ciência de dados</th>
-        <td rowspan="6">Ciência de dados</td>
-    <tr>
-       <td>
-        Bootcamp Data Science Alura 2021-22 <br>
-        <a href="https://github.com/FranciscoFoz/Projeto_Modulo1_Bootcamp_Data_Science_Alura_2021"> Módulo 1 - Internações no Brasil: Uma análise exploratória entre 2010-2020 </a> <br>
-        <a href="https://github.com/FranciscoFoz/Projeto_Modulo2_Bootcamp_Data_Science_Alura_2021"> Módulo 2 - Imunizações para Febre Amarela no Brasil: Uma análise dos casos entre 2019/2020-2021 </a> <br>
-        <a href="https://github.com/FranciscoFoz/Projeto_Modulo3_Bootcamp_Data_Science_Alura_2021"> Módulo 3 - Previsão dos casos de COVID-19 no Brasil:
-Uma análise preditiva no município com maior índice de casos por habitante</a> <br>
-        <a href="https://github.com/FranciscoFoz/Projeto_Final_Bootcamp_Data_Science_Alura"> Módulo Final - Previsão da admissão na UTI: Um modelo de Machine Learning a partir de dados dos pacientes do Hospital Sírio Libanês</a> <br>
-        <a href="https://github.com/FranciscoFoz/Bootcamp-Alura-Data-Science-Aplicado-a-Financas"> Módulo Extra - Data Science Aplicado a Financas
-        </td>
-   <tr>
-        <td>
-           <a href="https://github.com/FranciscoFoz/Bibliotecario_em_Ciencia_de_Dados"> Resenha - Livro: Data Science do Zero</a>
-       </td>
-   </tr>
-   <tr>
-        <td>
-           <a href="https://github.com/FranciscoFoz/State-of-data-2021-Como-reter-profissionais-gestores-em-dados"> State of data 2021 - Como reter profissionais gestores em dados ?</a>
-       </td>
-   </tr>
-   <tr>      
-        <td>
-           <a href="https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca"> Validação do cadastro de usuários da biblioteca </a>
-        </td>
-   </tr>    
-   <tr>
-        <td>
-           <a href="https://github.com/FranciscoFoz/Visualizacoes_TesesDissertacoes_Biblioteconomia_Brasil"> Visualização de dados das teses e dissertações de bibliotecononomia no Brasil</a>
-       </td>
-    </tr>     
-   <tr>
-        <td rowspan="2">Business Intelligence</td>
-        <td>
-        <a href="https://github.com/FranciscoFoz/BI_Biblioteca"> BI em Bibliotecas </a> <br>
-        </td>
-   <tr>
-        <td>
-        Alura Challenge BI 2021 - Power BI <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana1"> Semana 1 - Dashboard de Logística </a> <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana2"> Semana 2 - Dashboard estratégico de marketing  </a> <br>
-        <a href="https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana3"> Semana 3 - Dashboard tático financeiro </a> 
-        </td>
-   </tr>
-</table>
+Confira minha Vitrine Dev clicando no link abaixo:
+
+[![image](https://user-images.githubusercontent.com/64700794/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/FranciscoFoz)
 
 </br>
 </br>
