@@ -38,7 +38,7 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 ## Portfólio de projetos
 
-Confira minha Vitrine Dev clicando no link abaixo:
+Confira minha Vitrine Dev clicando na imagem abaixo:
 
 [![image](https://user-images.githubusercontent.com/64700794/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/FranciscoFoz)
 
