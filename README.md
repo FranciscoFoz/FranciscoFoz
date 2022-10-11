@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Dev Leaders Conference: o resumo de um bibliotecário no maior evento de tecnologia para lideranças](https://franciscofoz.medium.com/dev-leaders-conference-o-resumo-de-de-um-bibliotec%C3%A1rio-no-maior-evento-de-tecnologia-para-81005f8c2e6e?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: desenvolvendo um workshop na universidade](https://franciscofoz.medium.com/letramento-informacional-de-dados-desenvolvendo-um-workshop-na-universidade-2b6af1363ff5?source=rss-30612e32581e------2)
 - [Por que Python pode ser uma boa escolha para aprender programação?](https://franciscofoz.medium.com/porque-python-pode-ser-uma-boa-escolha-para-aprender-programa%C3%A7%C3%A3o-fa1bcdce098e?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: Documentando códigos de software](https://franciscofoz.medium.com/letramento-informacional-de-dados-documentando-c%C3%B3digos-de-software-959f1f33f85d?source=rss-30612e32581e------2)
-- [Como uma pessoa bibliotecária pode aprender programação?](https://franciscofoz.medium.com/como-uma-pessoa-bibliotec%C3%A1ria-pode-aprender-programa%C3%A7%C3%A3o-47a00b64fbce?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
