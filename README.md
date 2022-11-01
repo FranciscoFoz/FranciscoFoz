@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Visualizando as visitas ao Chinese American Museum: uma introdução ao gráfico de linha com Plotly](https://franciscofoz.medium.com/visualizando-as-visitas-ao-chinese-american-museum-uma-introdu%C3%A7%C3%A3o-ao-gr%C3%A1fico-de-linha-com-plotly-af8298bfdda5?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: utilizando um formato de E-learning](https://franciscofoz.medium.com/letramento-informacional-de-dados-utilizando-um-formato-de-e-learning-619d3f204d22?source=rss-30612e32581e------2)
 - [Como melhorar o processo de limpeza e transformação de dados geoespaciais com Power BI e Python?](https://franciscofoz.medium.com/como-melhorar-o-processo-de-limpeza-e-transforma%C3%A7%C3%A3o-de-dados-geoespaciais-com-power-bi-e-python-a56b5f580b9a?source=rss-30612e32581e------2)
 - [Dev Leaders Conference: o resumo de um bibliotecário no maior evento de tecnologia para lideranças](https://franciscofoz.medium.com/dev-leaders-conference-o-resumo-de-de-um-bibliotec%C3%A1rio-no-maior-evento-de-tecnologia-para-81005f8c2e6e?source=rss-30612e32581e------2)
-- [Letramento informacional de dados: desenvolvendo um workshop na universidade](https://franciscofoz.medium.com/letramento-informacional-de-dados-desenvolvendo-um-workshop-na-universidade-2b6af1363ff5?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
