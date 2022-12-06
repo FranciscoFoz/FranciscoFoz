@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Letramento informacional de dados: o que vem depois do fim?](https://franciscofoz.medium.com/letramento-informacional-de-dados-o-que-vem-depois-do-fim-8552d0f62d06?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: Onde devemos nos aprofundar?](https://franciscofoz.medium.com/letramento-informacional-de-dados-onde-devemos-nos-aprofundar-42b5e1da4667?source=rss-30612e32581e------2)
 - [Letramento informacional de dados: Como desenvolver um programa?](https://franciscofoz.medium.com/letramento-informacional-de-dados-como-desenvolver-um-programa-9cc270055aa0?source=rss-30612e32581e------2)
 - [Fundamentos do Plotly: Uma introdução a estrutura da figura](https://franciscofoz.medium.com/fundamentos-do-plotly-uma-introdu%C3%A7%C3%A3o-a-estrutura-da-figura-57da92313bfa?source=rss-30612e32581e------2)
-- [Letramento informacional de dados: ensinando através de palestras e  discussões](https://franciscofoz.medium.com/letramento-informacional-de-dados-ensinando-atrav%C3%A9s-de-palestras-e-discuss%C3%B5es-f7469a54c132?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
