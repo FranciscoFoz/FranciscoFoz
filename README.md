@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Por que você deveria prestar mais atenção ao PMEST de Ranganathan?](https://medium.com/ia-biblio-br/por-que-voc%C3%AA-deveria-prestar-mais-aten%C3%A7%C3%A3o-ao-pmest-de-ranganathan-9cfd3208c6b7?source=rss-30612e32581e------2)
 - [Minha retrospectiva de 2022](https://franciscofoz.medium.com/minha-retrospectiva-de-2022-907f04b770af?source=rss-30612e32581e------2)
 - [O que te motiva estudar tecnologia?](https://franciscofoz.medium.com/o-que-te-motiva-a-estudar-tecnologia-6bbdda9c1f53?source=rss-30612e32581e------2)
 - [Bibliotecário em ciência de dados: Uma introdução ao gradiente e descendente](https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-uma-introdu%C3%A7%C3%A3o-ao-gradiente-e-descendente-f6f2a39a55de?source=rss-30612e32581e------2)
-- [Letramento informacional de dados: o que vem depois do fim?](https://franciscofoz.medium.com/letramento-informacional-de-dados-o-que-vem-depois-do-fim-8552d0f62d06?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
