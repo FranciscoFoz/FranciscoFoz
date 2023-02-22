@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Como se tornar uma pessoa Analista de Dados?](https://franciscofoz.medium.com/como-se-tornar-uma-pessoa-analista-de-dados-f371a656512b?source=rss-30612e32581e------2)
 - [Como praticar Python Pandas para análise de dados?](https://franciscofoz.medium.com/como-praticar-python-pandas-para-an%C3%A1lise-de-dados-bc7dd181a8cd?source=rss-30612e32581e------2)
 - [Por que você deveria prestar mais atenção ao PMEST de Ranganathan?](https://medium.com/ia-biblio-br/por-que-voc%C3%AA-deveria-prestar-mais-aten%C3%A7%C3%A3o-ao-pmest-de-ranganathan-9cfd3208c6b7?source=rss-30612e32581e------2)
 - [Minha retrospectiva de 2022](https://franciscofoz.medium.com/minha-retrospectiva-de-2022-907f04b770af?source=rss-30612e32581e------2)
-- [O que te motiva estudar tecnologia?](https://franciscofoz.medium.com/o-que-te-motiva-a-estudar-tecnologia-6bbdda9c1f53?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
