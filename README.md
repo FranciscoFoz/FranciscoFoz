@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Paul Otlet: O visionário precursor da Biblioteconomia contemporânea](https://franciscofoz.medium.com/paul-otlet-o-vision%C3%A1rio-precursor-da-biblioteconomia-contempor%C3%A2nea-55b73037fbee?source=rss-30612e32581e------2)
 - [IA e Machine Learning em Bibliotecas: Uma breve introdução](https://franciscofoz.medium.com/ia-e-machine-learning-em-bibliotecas-uma-breve-introdu%C3%A7%C3%A3o-a238e5567a4d?source=rss-30612e32581e------2)
 - [Ciência de Dados “na prática” para profissionais da informação](https://franciscofoz.medium.com/ci%C3%AAncia-de-dados-na-pr%C3%A1tica-para-profissionais-da-informa%C3%A7%C3%A3o-c3427b564bec?source=rss-30612e32581e------2)
 - [Como se tornar uma pessoa Analista de Dados?](https://franciscofoz.medium.com/como-se-tornar-uma-pessoa-analista-de-dados-f371a656512b?source=rss-30612e32581e------2)
-- [Como praticar Python Pandas para análise de dados?](https://franciscofoz.medium.com/como-praticar-python-pandas-para-an%C3%A1lise-de-dados-bc7dd181a8cd?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
