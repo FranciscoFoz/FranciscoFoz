@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Estudos Métricos da Informação: 10 referências para introdução aos estudos](https://franciscofoz.medium.com/estudos-m%C3%A9tricos-da-informa%C3%A7%C3%A3o-10-refer%C3%AAncias-para-introdu%C3%A7%C3%A3o-aos-estudos-b7ca2d689171?source=rss-30612e32581e------2)
 - [Catálogo de Dados em empresas: um olhar da Biblioteconomia/Ciência da Informação](https://franciscofoz.medium.com/cat%C3%A1logo-de-dados-em-empresas-um-olhar-da-biblioteconomia-ci%C3%AAncia-da-informa%C3%A7%C3%A3o-148bd3cdec6f?source=rss-30612e32581e------2)
 - [Será possível usar ChatGPT e outras Inteligências Artificiais generativas em Bibliotecas?](https://franciscofoz.medium.com/ser%C3%A1-poss%C3%ADvel-usar-chatgpt-e-outras-intelig%C3%AAncias-artificiais-generativas-em-bibliotecas-d0e990510f98?source=rss-30612e32581e------2)
 - [Comparando medidas de estatística descritiva em Python e R](https://franciscofoz.medium.com/comparando-medidas-de-estat%C3%ADstica-descritiva-em-python-e-r-f568bbba1363?source=rss-30612e32581e------2)
-- [Inteligência Artificial em Bibliotecas: necessidade ou apenas mais uma buzzword?](https://franciscofoz.medium.com/intelig%C3%AAncia-artificial-em-bibliotecas-necessidade-ou-apenas-mais-uma-buzzword-a921cb4ad29a?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
