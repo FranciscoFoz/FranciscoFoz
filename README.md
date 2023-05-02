@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [5 Desafios com números para iniciantes em Python](https://franciscofoz.medium.com/5-desafios-com-n%C3%BAmeros-para-iniciantes-em-python-6f5a493119e0?source=rss-30612e32581e------2)
 - [Impactos e mudanças no trabalho que a IA poderá gerar em Bibliotecas](https://franciscofoz.medium.com/impactos-e-mudan%C3%A7as-no-trabalho-que-a-ia-poder%C3%A1-gerar-em-bibliotecas-40cdf9d8c1d?source=rss-30612e32581e------2)
 - [Estudos Métricos da Informação: 10 referências para introdução aos estudos](https://franciscofoz.medium.com/estudos-m%C3%A9tricos-da-informa%C3%A7%C3%A3o-10-refer%C3%AAncias-para-introdu%C3%A7%C3%A3o-aos-estudos-b7ca2d689171?source=rss-30612e32581e------2)
 - [Catálogo de Dados em empresas: um olhar da Biblioteconomia/Ciência da Informação](https://franciscofoz.medium.com/cat%C3%A1logo-de-dados-em-empresas-um-olhar-da-biblioteconomia-ci%C3%AAncia-da-informa%C3%A7%C3%A3o-148bd3cdec6f?source=rss-30612e32581e------2)
-- [Será possível usar ChatGPT e outras Inteligências Artificiais generativas em Bibliotecas?](https://franciscofoz.medium.com/ser%C3%A1-poss%C3%ADvel-usar-chatgpt-e-outras-intelig%C3%AAncias-artificiais-generativas-em-bibliotecas-d0e990510f98?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
