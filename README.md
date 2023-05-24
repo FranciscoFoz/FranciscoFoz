@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Como estudar tecnologia de forma “independente”?](https://franciscofoz.medium.com/como-estudar-tecnologia-de-forma-independente-c9f415016687?source=rss-30612e32581e------2)
 - [9 “Aprendizados” para Analistas de dados e Analistas de BI jr](https://franciscofoz.medium.com/9-aprendizados-para-analistas-de-dados-e-analistas-de-bi-jr-5678ddc93238?source=rss-30612e32581e------2)
 - [10 referências sobre Inteligência Artificial em Bibliotecas](https://franciscofoz.medium.com/10-refer%C3%AAncias-sobre-intelig%C3%AAncia-artificial-em-bibliotecas-eb1cf167738d?source=rss-30612e32581e------2)
 - [5 Desafios com números para iniciantes em Python](https://franciscofoz.medium.com/5-desafios-com-n%C3%BAmeros-para-iniciantes-em-python-6f5a493119e0?source=rss-30612e32581e------2)
-- [Impactos e mudanças no trabalho que a IA poderá gerar em Bibliotecas](https://franciscofoz.medium.com/impactos-e-mudan%C3%A7as-no-trabalho-que-a-ia-poder%C3%A1-gerar-em-bibliotecas-40cdf9d8c1d?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
