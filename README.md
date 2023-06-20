@@ -29,10 +29,10 @@ Eu tenho 27 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [As interrelações entre Ciência de Dados e Biblioteconomia/Ciência da Informação](https://franciscofoz.medium.com/as-interrela%C3%A7%C3%B5es-entre-ci%C3%AAncia-de-dados-e-biblioteconomia-ci%C3%AAncia-da-informa%C3%A7%C3%A3o-b9ddab9b5a9f?source=rss-30612e32581e------2)
 - [5 Desafios com Strings para iniciantes em Python](https://franciscofoz.medium.com/5-desafios-com-strings-para-iniciantes-em-python-81e3a5ba9cbe?source=rss-30612e32581e------2)
 - [ChatGPT em Bibliotecas: O que a Ciência está falando sobre?](https://franciscofoz.medium.com/chatgpt-em-bibliotecas-o-que-a-ci%C3%AAncia-est%C3%A1-falando-sobre-6345dba2b063?source=rss-30612e32581e------2)
 - [Bibliotecário em Ciência de Dados: Uma introdução a coleta de dados](https://franciscofoz.medium.com/bibliotec%C3%A1rio-em-ci%C3%AAncia-de-dados-uma-introdu%C3%A7%C3%A3o-a-coleta-de-dados-6420a36a6484?source=rss-30612e32581e------2)
-- [Como estudar tecnologia de forma “independente”?](https://franciscofoz.medium.com/como-estudar-tecnologia-de-forma-independente-c9f415016687?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
