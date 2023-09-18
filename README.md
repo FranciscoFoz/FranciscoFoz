@@ -37,7 +37,7 @@ Eu tenho 28 anos e moro em Campinas-SP.
 
 
 ## Portfólio de projetos
-<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Data Science' src='https://img.shields.io/badge/Data_Science-100000?style=for-the-badge&logo=Data Science&logoColor=9cd33b&labelColor=black&color=9cd33b'/></a>
+![Data Science](https://img.shields.io/badge/Data_Science-9cd33b)
 1. [Previsão da admissão na UTI](https://github.com/FranciscoFoz/Projeto_Final_Bootcamp_Data_Science_Alura)
 2. [Como reter profissionais gestores em dados?](https://github.com/FranciscoFoz/State-of-data-2021-Como-reter-profissionais-gestores-em-dados)
 3. [Business Intelligence em Bibliotecas](https://github.com/FranciscoFoz/BI_Biblioteca)
@@ -45,8 +45,11 @@ Eu tenho 28 anos e moro em Campinas-SP.
 5. [Previsão da admissão na UTI](https://github.com/FranciscoFoz/Projeto_Final_Bootcamp_Data_Science_Alura)
 
 
+![Programação](https://img.shields.io/badge/Programação-00c86f)
+1. [Validação do cadastro de usuários da biblioteca](https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca)
 
-1.[Validação do cadastro de usuários da biblioteca](https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca)
+</br>
+</br>
 
 Confira minha Vitrine Dev completa clicando na imagem abaixo:
 
