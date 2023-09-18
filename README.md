@@ -57,10 +57,9 @@ Confira minha Vitrine Dev completa clicando na imagem abaixo:
 
 </br>
 </br>
-</br>
 
 <div>
 <a href="https://gist.github.com/FranciscoFoz">
-<p align = "center"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&layout=compact&langs_count=7&theme=dracula"/>
+<p align = "left"> <img height="360em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&langs_count=7&theme=dracula"/>
 </div>
 
