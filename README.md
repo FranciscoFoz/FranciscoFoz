@@ -38,7 +38,7 @@ Eu tenho 28 anos e moro em Campinas-SP.
 
 ## Portfólio de projetos
 ![Data Science](https://img.shields.io/badge/Data_Science-9cd33b)
-1. [Previsão da admissão na UTI](https://github.com/FranciscoFoz/Projeto_Final_Bootcamp_Data_Science_Alura)
+1. [ML APP - Classificação de churn](https://github.com/FranciscoFoz/challenge-dados-alura-3-edicao)
 2. [Como reter profissionais gestores em dados?](https://github.com/FranciscoFoz/State-of-data-2021-Como-reter-profissionais-gestores-em-dados)
 3. [Business Intelligence em Bibliotecas](https://github.com/FranciscoFoz/BI_Biblioteca)
 4. [Dashboard de Marketing](https://github.com/FranciscoFoz/Alura_Challenge_BI_Semana2)
