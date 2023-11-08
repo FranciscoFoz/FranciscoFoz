@@ -48,6 +48,9 @@ Eu tenho 28 anos e moro em Campinas-SP.
 ![Programação](https://img.shields.io/badge/Programação-00c86f)
 1. [Validação do cadastro de usuários da biblioteca](https://github.com/FranciscoFoz/validacao-cadastro-usuarios-biblioteca)
 
+![Inteligência Artificial](https://img.shields.io/badge/Inteligencia_Artificial-7b71ff)
+1. [Potencializando a Descoberta de Informação com ChatGPT](https://github.com/FranciscoFoz/recomendador-artigos-OpenAlex-GPT/tree/main)
+
 </br>
 </br>
 
