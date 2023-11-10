@@ -29,10 +29,10 @@ Eu tenho 28 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Recomendações de artigos científicos da OpenAlex com ChatGPT](https://franciscofoz.medium.com/recomenda%C3%A7%C3%B5es-de-artigos-cient%C3%ADficos-da-openalex-com-chatgpt-f0239f6d78c1?source=rss-30612e32581e------2)
 - [Henriette Avram: a programadora que desenvolveu o MARC](https://franciscofoz.medium.com/henriette-avram-a-programadora-que-desenvolveu-o-marc-3bb4671a157d?source=rss-30612e32581e------2)
 - [Flourish: expanda seu arsenal de ferramentas em DataViz e Storytelling](https://franciscofoz.medium.com/flourish-expanda-seu-arsenal-de-ferramentas-em-dataviz-e-storytelling-570ef6f9881f?source=rss-30612e32581e------2)
 - [Os impactos da IA Generativa: 3 reflexões sobre nosso modo de trabalho](https://franciscofoz.medium.com/os-impactos-da-ia-generativa-3-reflex%C3%B5es-sobre-nosso-modo-de-trabalho-dea4c52be9b2?source=rss-30612e32581e------2)
-- [As interrelações entre Ciência de Dados e Biblioteconomia/Ciência da Informação](https://franciscofoz.medium.com/as-interrela%C3%A7%C3%B5es-entre-ci%C3%AAncia-de-dados-e-biblioteconomia-ci%C3%AAncia-da-informa%C3%A7%C3%A3o-b9ddab9b5a9f?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
