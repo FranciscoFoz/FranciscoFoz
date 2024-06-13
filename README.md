@@ -50,7 +50,7 @@ Eu tenho 28 anos e moro em Campinas-SP.
 
 ![Inteligência Artificial](https://img.shields.io/badge/Inteligencia_Artificial-7b71ff)
 1. [Potencializando a Descoberta de Informação com ChatGPT](https://github.com/FranciscoFoz/recomendador-artigos-OpenAlex-GPT/tree/main)
-2. [Classificador de Assuntos e ODS](https://github.com/FranciscoFoz/recomendador-artigos-OpenAlex-GPT/tree/main](https://github.com/FranciscoFoz/classificador-assuntos-ods))
+2. [Classificador de Assuntos e ODS](https://github.com/FranciscoFoz/classificador-assuntos-ods)
 
 </br>
 </br>
