@@ -29,10 +29,10 @@ Eu tenho 29 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [Desigualdade de gênero na ciência: meu primeiro artigo internacional](https://franciscofoz.medium.com/desigualdade-de-g%C3%AAnero-na-ci%C3%AAncia-meu-primeiro-artigo-internacional-065ee95e64b1?source=rss-30612e32581e------2)
 - [A importância dos Testes Estatísticos na Tomada de Decisões: uma abordagem prática com Python e R](https://franciscofoz.medium.com/a-import%C3%A2ncia-dos-testes-estat%C3%ADsticos-na-tomada-de-decis%C3%B5es-uma-abordagem-pr%C3%A1tica-com-python-e-r-6678696fb69d?source=rss-30612e32581e------2)
 - [Recomendações de artigos científicos da OpenAlex com ChatGPT](https://franciscofoz.medium.com/recomenda%C3%A7%C3%B5es-de-artigos-cient%C3%ADficos-da-openalex-com-chatgpt-f0239f6d78c1?source=rss-30612e32581e------2)
 - [Henriette Avram: a programadora que desenvolveu o MARC](https://franciscofoz.medium.com/henriette-avram-a-programadora-que-desenvolveu-o-marc-3bb4671a157d?source=rss-30612e32581e------2)
-- [Flourish: expanda seu arsenal de ferramentas em DataViz e Storytelling](https://franciscofoz.medium.com/flourish-expanda-seu-arsenal-de-ferramentas-em-dataviz-e-storytelling-570ef6f9881f?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
