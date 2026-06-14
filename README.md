@@ -29,10 +29,10 @@ Eu tenho 30 anos e moro em Campinas-SP.
 
 :pencil: Últimos textos no Medium:
 <!-- MEDIUM:START -->
+- [A importância da Mediação da Informação para a sociedade](https://franciscofoz.medium.com/a-import%C3%A2ncia-da-media%C3%A7%C3%A3o-da-informa%C3%A7%C3%A3o-para-a-sociedade-766fd107fb75?source=rss-30612e32581e------2)
 - [Um experimento simples sobre IA e indexação](https://franciscofoz.medium.com/um-experimento-simples-sobre-ia-e-indexa%C3%A7%C3%A3o-3dd0c4b8cdde?source=rss-30612e32581e------2)
 - [Gestão da informação e tomada de decisão nas organizações na era da sobrecarga informacional](https://franciscofoz.medium.com/gest%C3%A3o-da-informa%C3%A7%C3%A3o-e-tomada-de-decis%C3%A3o-nas-organiza%C3%A7%C3%B5es-na-era-da-sobrecarga-informacional-05a52607f625?source=rss-30612e32581e------2)
 - [Inteligência Artificial Generativa e Bibliotecas: um futuro que já começou](https://franciscofoz.medium.com/intelig%C3%AAncia-artificial-generativa-e-bibliotecas-um-futuro-que-j%C3%A1-come%C3%A7ou-53319f88228a?source=rss-30612e32581e------2)
-- [Desigualdade de gênero na ciência: meu primeiro artigo internacional](https://franciscofoz.medium.com/desigualdade-de-g%C3%AAnero-na-ci%C3%AAncia-meu-primeiro-artigo-internacional-065ee95e64b1?source=rss-30612e32581e------2)
 <!-- MEDIUM:END -->
 
 
