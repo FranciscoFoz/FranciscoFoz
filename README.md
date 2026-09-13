@@ -11,20 +11,11 @@
 )](https://medium.com/@franciscofoz)
 </p>
 
-Eu tenho 30 anos e moro em Campinas-SP.
+Eu tenho 31 anos e moro em Campinas-SP.
 
 
 - :books: Sou bibliotecário formado pela PUCCAMP em 2018.
-- :school: Eu trabalho na UNICAMP na função de Técnico em Biblioteconomia na BCCL.
-- :bar_chart: Estou estudando Ciência de dados e suas aplicações na Biblioteconomia.
-- :star: Faço parte do Alura Stars e tenho escrito no meu Medium textos sobre Ciência de dados, Biblioteconomia e Tecnologia.
-
-
-### Ferramentas e Tecnologias
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/2048px-New_Power_BI_Logo.svg.png" width="40" height="40"></code>
-</br>
-</br>
+- :school: Eu trabalho na UNICAMP no cargo de Gestor de Projetos no Sistema de Bibliotecas da Unicamp (SBU).
 
 
 :pencil: Últimos textos no Medium:
