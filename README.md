@@ -46,15 +46,4 @@ Eu tenho 31 anos e moro em Campinas-SP.
 </br>
 </br>
 
-Confira minha Vitrine Dev completa clicando na imagem abaixo:
-
-[![image](https://user-images.githubusercontent.com/64700794/188927548-c627858f-5e22-4373-b6fc-f9bd26c5195f.png)](https://cursos.alura.com.br/vitrinedev/FranciscoFoz)
-
-</br>
-</br>
-
-<div>
-<a href="https://github.com/FranciscoFoz">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoFoz&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
